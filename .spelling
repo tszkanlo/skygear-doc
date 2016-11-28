@@ -113,6 +113,17 @@ Skygear
 skygear
 skygeario
 SKYKit
+equalTo
+notEqualTo
+lessThan
+lessThanOrEqualTo
+greaterThan
+greaterThanOrEqualTo
+notContains
+containsValue
+notContainsValue
+caseInsensitiveLike
+caseInsensitiveNotLike
 
 # other words
 async
